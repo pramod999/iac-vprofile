@@ -9,7 +9,7 @@ output "cluster_endpoint" {
 }
 
 output "region" {
-  description = "Amazon Web Service EKS Cluster region"
+  description = "Amazon Web Service EKS Clusterr region"
   value       = var.region
 }
 
